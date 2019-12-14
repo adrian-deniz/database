@@ -1,3 +1,9 @@
+<?php
+    include_once 'includes/dbh.inc.php';
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +14,9 @@
     <title>Database</title>
 </head>
 <body>
-    
+    <?php
+        // $conn;
+    ?>
 </body>
 <script src="js/script.js"></script>
 </html>
